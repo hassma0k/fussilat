@@ -1,0 +1,1 @@
+import{a9 as i,u as o,E as u,K as c,j as s,k as l}from"./index-CD-fEWof.js";function m(){const a=i(),e=o(),t=u();if(!a)return null;const{s:n,a:r}=c(a);return s.jsx("div",{className:"ret-bar no-print",children:s.jsxs("button",{className:"ret-btn",onClick:()=>t(`/read/${n}/${r}`),children:[s.jsx("span",{"aria-hidden":"true",children:"↩"})," العودة إلى ",l(a,e)]})})}export{m as R};
