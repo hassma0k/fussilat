@@ -1,1 +1,0 @@
-import{a2 as i,j as s,L as t,ae as l}from"./index-BGnYxv0k.js";function r({r:a,meta:n}){const e=i(a,n);return s.jsxs("span",{className:"th-pass-actions no-print",children:[s.jsx(t,{to:`/ayah/${a.s}/${a.a}`,"aria-label":`ما يبيّنها: ${e}`,children:"ما يبيّنها"}),s.jsx(t,{to:`/read/${a.s}/${a.a}`,state:l(a),"aria-label":`في المصحف: ${e}`,children:"في المصحف"})]})}export{r as V};
